@@ -1,0 +1,35 @@
+# Ambientes e caches Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+# Modelos e áudios locais
+models/
+*.onnx
+*.onnx.json
+*.gguf
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.webm
+# Credenciais e configuração privada
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+# Logs
+*.log
