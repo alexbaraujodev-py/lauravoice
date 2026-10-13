@@ -113,3 +113,5 @@ O histórico local fica em memória, com até seis pares de mensagens. WAV tempo
 - [Piper](https://github.com/OHF-Voice/piper1-gpl)
 - [Ollama: compatibilidade OpenAI](https://docs.ollama.com/api/openai-compatibility)
 - [LM Studio: chat completions](https://lmstudio.ai/docs/developer/openai-compat/chat-completions)
+
+# conversa_comigo
